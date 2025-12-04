@@ -2,7 +2,7 @@
 
 A sophisticated Python-powered storytelling application that recreates Jane Austen's narrative style through advanced generative and interactive technologies.
 
-## 📖 Overview
+## Overview
 
 This project provides an immersive Jane Austen-inspired storytelling experience with the following features:
 
@@ -16,7 +16,6 @@ This project provides an immersive Jane Austen-inspired storytelling experience 
 - **Regency Letter Writing Assistant**: Compose letters in the style of Jane Austen's era
 - **Regency Name Dictionary**: Explore period-appropriate names with meanings and context
 
-## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -45,7 +44,7 @@ This project provides an immersive Jane Austen-inspired storytelling experience 
    python run_kivy_demo.py
    ```
 
-## 📚 Main Features
+## Main Features
 
 ### 1. Jane Austen Storytelling Experience
 
@@ -154,7 +153,7 @@ To use the name dictionary:
 python regency_name_dictionary.py
 ```
 
-## 🧩 Module Structure
+## Module Structure
 
 ### Core Modules
 - `austen_experience.py` - Main menu system for accessing all features
@@ -180,7 +179,7 @@ python regency_name_dictionary.py
 - `letter_writing_assistant.py` - Regency-era letter composition
 - `regency_name_dictionary.py` - Period name reference and generation
 
-## 🌟 Running the Project on Google Colab
+## Running the Project on Google Colab
 
 To run the project on Google Colab:
 
@@ -220,7 +219,7 @@ To run the project on Google Colab:
    !python austen_experience.py
    ```
 
-## 🎨 Customizing Themes
+## Customizing Themes
 
 When using the custom theme storyteller, you can input any theme and the system will generate a coherent narrative around it. Some theme ideas:
 
@@ -235,7 +234,7 @@ When using the custom theme storyteller, you can input any theme and the system 
 - Educational aspirations
 - Religious devotion
 
-## 📝 Example Usage
+## Example Usage
 
 ### Creating a Story with a Custom Theme
 
@@ -267,15 +266,15 @@ quote = quote_generator.get_quote_by_theme("love")
 print(quote_generator.format_quote_with_insight(quote))
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Inspired by the works of Jane Austen
 - Created as an homage to Regency-era literature and culture
